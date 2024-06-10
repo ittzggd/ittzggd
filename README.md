@@ -22,7 +22,7 @@
  <a href="https://instagram.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /> -->
    <a href="mailto:heejuj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heejuj.dev@gmail.com"/></a>
-   <a href="https://apps.apple.com/us/app/24hane/id1659801775" target="_blank">
+   <a href="https://apps.apple.com/us/developer/heeju-jang/id1659801777" target="_blank">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
  </a>
 </p>
